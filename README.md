@@ -5,10 +5,10 @@ Prompt | My Response
 **🌱 I’m currently learning ...**| I'm learning the fundamentals to become a full stack engineer and working with computer vision. 
 **👯 I’m looking to collaborate on ...**| If programming and art collides in any way please let me know. I enjoy the beauty that comes from programming. 
 **🤔 I’m looking for help with ...**| I would love help to meet new people who program and are in the same boat as me with developing new skills. 
-**💬 Ask me about ...**| My love for indie bands
-**📫 How to reach me: ...**| 
-**😄 Pronouns: ...**|
-**⚡ Fun fact: ...**|
+**💬 Ask me about ...**| My intrests with lavendar, Mandelbrot Fractals, and computer vision. 
+**📫 How to reach me: ...**| [You can email me through here!](https://forms.gle/6EzW26reY3LzmGYH9)
+**😄 Pronouns: ...**| He/Him/His
+**⚡ Fun fact: ...**| Chaos is useful for cryptography
 <!--
 **iacosta3994/iacosta3994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
