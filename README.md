@@ -1,13 +1,14 @@
 ### Hi there 👋
-
-**🔭 I’m currently working on ...**
-**🌱 I’m currently learning ...**
-**👯 I’m looking to collaborate on ...**
-**🤔 I’m looking for help with ...**
-**💬 Ask me about ...**
-**📫 How to reach me: ...**
-**😄 Pronouns: ...**
-**⚡ Fun fact: ...**
+Prompt | My Response
+------------ | -------------
+**🔭 I’m currently working on ...** | Just finished my front end certification course, so now I'm working on advancing my skills with experience. 
+**🌱 I’m currently learning ...**| I'm learning the fundamentals to become a full stack engineer and working with computer vision. 
+**👯 I’m looking to collaborate on ...**| If programming and art collides in any way please let me know. I enjoy the beauty that comes from programming. 
+**🤔 I’m looking for help with ...**| I would love help to meet new people who program and are in the same boat as me with developing new skills. 
+**💬 Ask me about ...**| My love for indie bands
+**📫 How to reach me: ...**| 
+**😄 Pronouns: ...**|
+**⚡ Fun fact: ...**|
 <!--
 **iacosta3994/iacosta3994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
