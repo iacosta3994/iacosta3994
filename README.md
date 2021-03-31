@@ -8,7 +8,7 @@ Prompt | My Response
 **💬 Ask me about ...**| My intrests with lavendar, Mandelbrot Fractals, and computer vision. 
 **📫 How to reach me: ...**| [You can email me through here!](https://forms.gle/6EzW26reY3LzmGYH9)
 **😄 Pronouns: ...**| He/Him/His
-**⚡ Fun fact: ...**| Chaos is useful for cryptography
+**⚡ Fun fact: ...**| Chaos is useful for cryptography || recursion is everywhere
 <!--
 **iacosta3994/iacosta3994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
