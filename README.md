@@ -8,7 +8,7 @@ Prompt | My Response
 **💬 Ask me about ...**| Artificial Intelegence, perspectives of the future, and the world I want to see unfold. 
 **📫 How to reach me: ...**| [You can email me through here!](https://forms.gle/6EzW26reY3LzmGYH9)
 **😄 Pronouns: ...**| He/Him/His
-**⚡ Fun fact: ...**| Cats have 300 Million Neurons while our gut has 500 Neurons || recursion is everywhere
+**⚡ Fun fact: ...**| Cats have 300 million neurons while our gut has 500 million Neurons || recursion is everywhere
 <!--
 **iacosta3994/iacosta3994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
