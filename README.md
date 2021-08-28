@@ -2,13 +2,13 @@
 Prompt | My Response
 ------------ | -------------
 **🔭 I’m currently working on ...** | Just finished my front end certification course, so now I'm working on advancing my skills with experience. 
-**🌱 I’m currently learning ...**| I'm learning the fundamentals to become a full stack engineer and working with computer vision. 
+**🌱 I’m currently learning ...**| I'm learning the fundamentals to become a full stack engineer and working with computer vision for fun. 
 **👯 I’m looking to collaborate on ...**| If programming and art collides in any way please let me know. I enjoy the beauty that comes from programming. 
 **🤔 I’m looking for help with ...**| I would love help to meet new people who program and are in the same boat as me with developing new skills. 
-**💬 Ask me about ...**| My intrests with lavendar, Mandelbrot Fractals, and computer vision. 
+**💬 Ask me about ...**| Artificial Intelegence, perspectives of the future, and the world I want to see unfold. 
 **📫 How to reach me: ...**| [You can email me through here!](https://forms.gle/6EzW26reY3LzmGYH9)
 **😄 Pronouns: ...**| He/Him/His
-**⚡ Fun fact: ...**| Chaos is useful for cryptography || recursion is everywhere
+**⚡ Fun fact: ...**| Cats have 300 Million Neurons while our gut has 500 Neurons || recursion is everywhere
 <!--
 **iacosta3994/iacosta3994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
