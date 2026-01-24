@@ -32,12 +32,6 @@ I'm a passionate solutions architect and backend developer with a knack for expl
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 🔧 Projects
-### [Project Name](link-to-project)
-A brief description of what the project is and the technologies used. Highlight key features and what you learned.
-
-
-
 ## 📈 GitHub Stats
 
 <div align="center">
