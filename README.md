@@ -57,5 +57,4 @@ A brief description of what the project is and the technologies used. Highlight 
 > 💼 **Note:** Most of my professional work happens on [@B-ACOSTA](https://github.com/B-ACOSTA). Activity from private repositories is included in the contribution counts above.
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](link-to-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](link-to-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acostapurple)
