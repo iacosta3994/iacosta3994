@@ -32,15 +32,23 @@ I'm a passionate solutions architect and backend developer with a knack for expl
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 🔧 Projects
-### [Project Name](link-to-project)
-A brief description of what the project is and the technologies used. Highlight key features and what you learned.
-
-
-
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iacosta3994&show_icons=true&theme=radical)
+
+<div align="center">
+
+### Personal Account (@iacosta3994)
+![iacosta3994 GitHub Stats](https://github-readme-stats.vercel.app/api?username=iacosta3994&show_icons=true&theme=radical&hide_border=true)
+
+### Work Account (@B-ACOSTA)
+![B-ACOSTA GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-ACOSTA&show_icons=true&theme=radical&hide_border=true)
+
+### Contribution Activity
+![iacosta3994 Streak](https://github-readme-streak-stats.herokuapp.com/?user=iacosta3994&theme=radical&hide_border=true)
+![B-ACOSTA Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-ACOSTA&theme=radical&hide_border=true)
+
+</div>
+
+> 💼 **Note:** Most of my professional work happens on [@B-ACOSTA](https://github.com/B-ACOSTA). Activity from private repositories is included in the contribution counts above.
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](link-to-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](link-to-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acostapurple)
